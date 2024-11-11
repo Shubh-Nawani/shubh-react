@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shubh-react/static/css/main.f855e6bc.css",
+    "main.js": "/shubh-react/static/js/main.f37742bd.js",
+    "static/js/453.8875ea89.chunk.js": "/shubh-react/static/js/453.8875ea89.chunk.js",
+    "static/media/logo.svg": "/shubh-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shubh-react/index.html",
+    "main.f855e6bc.css.map": "/shubh-react/static/css/main.f855e6bc.css.map",
+    "main.f37742bd.js.map": "/shubh-react/static/js/main.f37742bd.js.map",
+    "453.8875ea89.chunk.js.map": "/shubh-react/static/js/453.8875ea89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f37742bd.js"
+  ]
+}
